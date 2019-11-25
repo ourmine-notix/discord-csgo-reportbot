@@ -11,21 +11,20 @@
     <ul>Basic Commands</ul>
     <li><b>REPORT:</b> ^report TARGET STEAM ID64 (ex. ^report 76561198990042256)</li>
     <li><b>CHECK:</b> ^check TARGET STEAM ID64 (ex. ^report 76561198990042256)</li>
-    <ul>How to Start BOT</ul>
-    <ol>1. Create .bat file
-        <li>RMB in bot folder</li>
-        <li>Edit filename (ex. start.bat) with .bat</li>
-        <li>Write into your .bat file </br>"node bot.js"</br>
-            "pause"
-        </li>
-        <li>Now you can start your BOT</li>
-    </ol>
+    <ul><b>How to Start BOT</b></ul>
+    <ul>1. Create .bat file</ul>
+    <li>RMB in bot folder</li>
+    <li>Edit filename (ex. start.bat) with .bat</li>
+    <li>Write into your .bat file </br>"node bot.js"</br>
+        "pause"
+    </li>
+</br>
+    <li>Now you can start your BOT</li>
+    <ul>2. Start with Windows PowerShell </ul>
+    <li>Press shift + RMB</li>
+    <li>Write
+    </br>"node bot.js"
+    </li>
+    <li>Your bot has started working</li>
 
-    <ol>2. Start with Windows PowerShell
-        <li>Press shift + RMB</li>
-        <li>Write 
-            <br>"node bot.js"
-        </li>
-        <li>Your bot has started working</li>
-    </ol>
 </list>
