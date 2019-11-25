@@ -18,8 +18,8 @@
     <li>Write into your .bat file </br>"node bot.js"</br>
         "pause"
     </li>
-</br>
     <li>Now you can start your BOT</li>
+</br>
     <ul>2. Start with Windows PowerShell </ul>
     <li>Press shift + RMB</li>
     <li>Write
