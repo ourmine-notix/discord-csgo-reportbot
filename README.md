@@ -10,7 +10,7 @@
     </br>
     <ul>Basic Commands</ul>
     <li><b>REPORT:</b> ^report TARGET STEAM ID64 (ex. ^report 76561198990042256)</li>
-    <li><b>CHECK:</b> ^check TARGET STEAM ID64 (ex. ^report 76561198990042256)</li>
+    <li><b>CHECK:</b> ^check TARGET STEAM ID64 (ex. ^report 76561198990042256)</li></br></br>
     <ul><b>How to Start BOT</b></ul>
     <ul>1. Create .bat file</ul>
     <li>RMB in bot folder</li>
