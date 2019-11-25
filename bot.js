@@ -1,5 +1,4 @@
 const botconfig = require("./botconfig.json");
-//NjE1NDMyMTE4NjU4NTMxMzI5.XWeTtA.hqVlSEufkNyKigFO-_0ZQD5DgA4
 const Discord = require("discord.js");
 const bot = new Discord.Client({ disableEveryone: true });
 bot.commands = new Discord.Collection();
