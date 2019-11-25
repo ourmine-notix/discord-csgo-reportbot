@@ -1,0 +1,6 @@
+Add accounts as in the scheme below, remember to check the "botconfig.json" file before the first use and determine your Steam api key and Discord Bot Token, and remember to delete everything from the "accounts.txt" folder and put your account data there. You can add them as many as you like. The bot will use all of them.
+
+
+reportbotAccountLogin:reportbotAccountPassword
+reportbotAccountLogin1:reportbotAccountPassword1
+reportbotAccountLogin2:reportbotAccountPassword2

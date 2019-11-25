@@ -1,0 +1,5 @@
+{
+    "prefix": "^",
+    "steamKey": "YOUR_STEAM_API_KEY",
+    "botToken": "YOUR_DISCORD_BOT_KEY"
+}
