@@ -1,3 +1,5 @@
+<h1>This reportbot do not work after Steam update.</h1>
+
 <h1>Discord CS:GO ReportBOT</h1>
 <h4>Author Discord: OurmineOGTv#2615</h4>
 </br>
